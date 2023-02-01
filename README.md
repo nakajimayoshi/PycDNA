@@ -4,6 +4,8 @@
 
 A tool for quickly converting NCBI CDS libraries to plain nucleotide sequences.
 
+[Downloads](https://github.com/nakajimayoshi/PycDNA/releases/tag/v0.1.0)
+
 ## Background
 cDNA libraries are important tools in molecular biology and genomics research, providing a snapshot 
 of the expressed genes in a cell or tissue under specific conditions. The information obtained from cDNA libraries can
