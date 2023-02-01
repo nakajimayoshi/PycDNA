@@ -1,5 +1,5 @@
 import unittest
-from Cdna import Cdna
+from src.Cdna import Cdna
 
 f = open("example_cds.txt", "r")
 cds = f.read()
